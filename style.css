@@ -15,6 +15,13 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: "PT Sans Narrow";
+  src: url("fonts/PTSansNarrow-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
 body {
   width: 100vw;
   height: 100vh;
